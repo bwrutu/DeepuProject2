@@ -10,3 +10,9 @@ Indigo
 New Colors
 Bright Yelo
 Black
+
+
+New Colors - 2
+Purple
+Bakc green
+Dark Red
