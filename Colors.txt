@@ -6,3 +6,7 @@ Blue
 White
 Green
 Indigo
+
+New Colors
+Bright Yelo
+Black
