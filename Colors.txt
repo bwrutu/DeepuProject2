@@ -3,3 +3,6 @@ Colors of Life 1
 Red
 Yellow
 Blue
+White
+Green
+Indigo
